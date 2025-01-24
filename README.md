@@ -138,3 +138,12 @@ Siguiendo esta guía, habrás configurado con éxito una aplicación Scala que s
 - [Documentación de MySQL](https://dev.mysql.com/doc/)
 
 Espero que esta wiki te haya sido útil y que ahora te sientas más cómodo integrando bases de datos SQL con aplicaciones Scala. Si tienes alguna pregunta o necesitas más asistencia, no dudes en preguntar. ¡Buena suerte!
+
+
+## RESULTADOS:
+Implementando nuestro .csv, imprimimos por consola nuestra base de datos
+![image](https://github.com/user-attachments/assets/0b44f52c-fe3c-4dff-997d-fe0ee94e3c95)
+
+Luego de hacer la inyección vía Scala, tenemos la siguiente tabla:
+![image](https://github.com/user-attachments/assets/a2ef98f4-fc7e-40e3-a6a3-c632d3e05e83)
+
